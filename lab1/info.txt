@@ -1,0 +1,4 @@
+__disable_irq();
+__enable_irq();
+
+clock: 100 MHz

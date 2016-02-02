@@ -1,0 +1,4 @@
+--cpu Cortex-M3 ".\build\glcd_spi_lpc1700.o" ".\build\system_lpc17xx.o" ".\build\startup_lpc17xx.o" ".\build\main.o" 
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x10000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\build\lab2.map" -o .\build\lab2.axf

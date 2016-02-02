@@ -1,0 +1,10 @@
+.\build\main.o: src\main.c
+.\build\main.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\build\main.o: C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h
+.\build\main.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\build\main.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\build\main.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\build\main.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\build\main.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\build\main.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\build\main.o: src\glcd.h
